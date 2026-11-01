@@ -1,0 +1,101 @@
+# TzModeler — License / Лицензия / Ліцензія
+
+## English — License agreement
+
+By using TzModeler you agree to the terms below. If you do not agree with them, do not use the program.
+
+### 1. Free program
+TzModeler is distributed free of charge. You may use it without restrictions, for personal and commercial projects. Models, textures and other files you open, save or convert remain yours (or their authors'): the program neither grants nor takes away any rights to them.
+
+### 2. Distribution
+You may share the program for free on other websites, forums and in collections, provided that:
+- the author is credited — Wooden Gear Studio;
+- links to the author are given: https://ko-fi.com/woodengeardev and woodengeardev@proton.me;
+- the program file is passed on unchanged;
+- no fee is charged for the program and it is not put behind paid access.
+
+### 3. What is not allowed
+Selling the program or access to it; modifying, disassembling, decompiling the program or circumventing its protection; removing or changing the author information; passing the program off as your own.
+
+### 4. No warranty
+The program is provided "as is", without any warranty, express or implied. The author does not promise that it will suit your purpose or work without errors.
+
+### 5. Liability and your data
+The author is not liable for any loss of or damage to data, models, textures and projects, or for any other damage resulting from using or being unable to use the program. Keep your own backup copies of important files.
+
+### 6. Trainz
+Trainz is a trademark of N3V Games. TzModeler is an independent program, not affiliated with or endorsed by N3V Games. Rights to game and third-party content belong to their owners.
+
+### 7. Changes to these terms
+New versions of the program may come with updated terms. Each version is covered by the terms shown in it.
+
+### 8. Questions and permissions
+Questions about the license and requests for other uses of the program: woodengeardev@proton.me.
+
+---
+
+## Українська — Ліцензійна угода
+
+Користуючись TzModeler, ви погоджуєтеся з умовами нижче. Якщо ви з ними не згодні, не використовуйте програму.
+
+### 1. Безкоштовна програма
+TzModeler поширюється безкоштовно. Користуватися нею можна без обмежень — для особистих і комерційних проєктів. Моделі, текстури та інші файли, які ви відкриваєте, зберігаєте чи конвертуєте, залишаються вашими (або їхніх авторів): програма не надає і не забирає прав на них.
+
+### 2. Поширення
+Програму можна безкоштовно викладати на інших сайтах, форумах і в збірках, якщо:
+- зазначено автора — Wooden Gear Studio;
+- зазначено посилання на автора: https://ko-fi.com/woodengeardev і woodengeardev@proton.me;
+- файл програми передається без змін;
+- за програму не беруть плату й не закривають її платним доступом.
+
+### 3. Що заборонено
+Продавати програму або доступ до неї; змінювати, розбирати, декомпілювати програму чи обходити її захист; видаляти або змінювати відомості про автора; видавати програму за свою.
+
+### 4. Без гарантій
+Програма надається «як є», без будь-яких гарантій — явних чи неявних. Автор не обіцяє, що вона підійде для вашого завдання й працюватиме без помилок.
+
+### 5. Відповідальність і збереження даних
+Автор не відповідає за втрату чи пошкодження даних, моделей, текстур і проєктів, а також за будь-яку іншу шкоду від використання програми або неможливості нею скористатися. Зберігайте власні резервні копії важливих файлів.
+
+### 6. Trainz
+Trainz — торговельна марка N3V Games. TzModeler — незалежна програма: вона не пов'язана з N3V Games і не схвалена нею. Права на ігровий і чужий контент належать їхнім власникам.
+
+### 7. Зміна умов
+Нові версії програми можуть виходити з оновленими умовами. Для кожної версії діють умови, показані в ній.
+
+### 8. Питання та дозволи
+Питання щодо ліцензії та прохання про інше використання програми — на woodengeardev@proton.me.
+
+---
+
+## Русский — Лицензионное соглашение
+
+Пользуясь TzModeler, вы соглашаетесь с условиями ниже. Если вы с ними не согласны, не используйте программу.
+
+### 1. Бесплатная программа
+TzModeler распространяется бесплатно. Пользоваться ею можно без ограничений — для личных и для коммерческих проектов. Модели, текстуры и другие файлы, которые вы открываете, сохраняете или конвертируете, остаются вашими (или их авторов): программа не даёт и не забирает прав на них.
+
+### 2. Распространение
+Программу можно бесплатно выкладывать на других сайтах, форумах и в сборниках, если:
+- указан автор — Wooden Gear Studio;
+- указаны ссылки на автора: https://ko-fi.com/woodengeardev и woodengeardev@proton.me;
+- файл программы передаётся без изменений;
+- за программу не берут плату и не закрывают её платным доступом.
+
+### 3. Что запрещено
+Продавать программу или доступ к ней; изменять, разбирать, декомпилировать программу или обходить её защиту; удалять или менять сведения об авторе; выдавать программу за свою.
+
+### 4. Без гарантий
+Программа предоставляется «как есть», без каких-либо гарантий — явных или подразумеваемых. Автор не обещает, что она подойдёт для вашей задачи и будет работать без ошибок.
+
+### 5. Ответственность и сохранность данных
+Автор не отвечает за потерю или повреждение данных, моделей, текстур и проектов, а также за любой другой ущерб от использования программы или невозможности ею воспользоваться. Храните собственные резервные копии важных файлов.
+
+### 6. Trainz
+Trainz — товарный знак N3V Games. TzModeler — независимая программа: она не связана с N3V Games и не одобрена ею. Права на игровой и чужой контент принадлежат их владельцам.
+
+### 7. Изменение условий
+Новые версии программы могут выходить с обновлёнными условиями. Для каждой версии действуют условия, показанные в ней.
+
+### 8. Вопросы и разрешения
+Вопросы о лицензии и просьбы о другом использовании программы — на woodengeardev@proton.me.
