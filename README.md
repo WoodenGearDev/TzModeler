@@ -2,7 +2,7 @@
 
 **Wooden Gear Studio** · free viewer for Trainz models · бесплатный просмотрщик моделей Trainz · безкоштовний переглядач моделей Trainz
 
-**Current version / Текущая версия / Поточна версія: 0.6.1-beta** → [Releases](https://github.com/WoodenGearDev/TzModeler/releases)
+**Current version / Текущая версия / Поточна версія: 0.6.2-beta** → [Releases](https://github.com/WoodenGearDev/TzModeler/releases)
 
 Windows x64. Unzip and run — no installation, Blender, Python or .NET needed.
 
